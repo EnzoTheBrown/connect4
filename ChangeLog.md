@@ -1,4 +1,4 @@
-# Revision history for connect4
+# Revision history for puissance4
 
 ## 0.1.0.0  -- YYYY-mm-dd
 
